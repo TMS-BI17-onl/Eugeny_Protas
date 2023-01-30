@@ -1,0 +1,9 @@
+Well done!
+
+3
+a) -0.5
+The condition with name should be applied to productmodel table.
+
+Don't use ORDER BY if it's not required.
+
+Mark: 10
