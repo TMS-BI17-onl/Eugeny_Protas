@@ -30,6 +30,6 @@
 
 11. select sum (x)
     from table_1
-    where x >= 0 or x%5=0
+    where x > 0 or x%5=0
 
 	
