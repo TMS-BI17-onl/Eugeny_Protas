@@ -1,0 +1,35 @@
+1. 2
+
+2. Delete the table Employees, and then cancel the deletion and display all the rows table Employees
+
+3.  1 1 
+    2 2
+
+4.  1     1 
+    2     2
+    4     Null
+    Null  Null
+
+5. 120
+
+5.2. 1- count of rows, 2 - count of unique Col_1
+
+6. 2 (one to many)
+
+7. 3 (many to many)
+
+8. 1 (first normal form)
+
+9.  1   AAA
+    5   CBA
+    9   1AB
+
+10. 1  John Doe
+    4  Bobby Louis
+    5  Lisa Romero
+
+11. select sum (x)
+    from table_1
+    where x >= 0 or x%5=0
+
+	
